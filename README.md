@@ -33,19 +33,33 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 
+
 ### ✈️ Projects
 
-**Refresh Airline — 항공 예약 및 발권 시스템**
+#### Refresh Airline
+**항공편 예약 및 전자항공권 발권 시스템 | 개인 프로젝트**
 
-항공 예약·발권 업무 경험을 바탕으로 제작한 개인 프로젝트입니다.
+항공 예약·발권 실무 경험을 바탕으로 설계하고 구현한 웹 애플리케이션입니다.
 
-- 항공편 검색 및 예약
-- 승객 정보 및 부가서비스 관리
-- 결제와 전자항공권 발행
+**주요 기능**
+- 항공편 검색 및 운임 조회
+- 승객 정보 입력 및 예약 관리
+- 좌석 · 수하물 · 기내식 등 부가서비스 선택
+- 결제 및 전자항공권 발행
+- 예약 내역 조회
+
+**기술적 경험**
+- Spring Boot와 JPA 기반 예약 데이터 처리
 - Redis를 활용한 임시 데이터 관리
-- Docker 및 AWS EC2 기반 서버 배포
+- MySQL 기반 관계형 데이터 모델링
+- Docker Compose를 활용한 애플리케이션 · DB · Redis 구성
+- AWS EC2와 Nginx를 이용한 서비스 배포
 
-*프로젝트 상세 소개는 준비 중입니다.*
+**Tech Stack**  
+`Java` `Spring Boot` `JPA` `MySQL` `Redis` `Docker` `AWS EC2` `Nginx` `Thymeleaf`
+
+> 📌 프로젝트 상세 문서 및 기술적 문제 해결 사례를 정리하고 있습니다.
+
 
 ### 📚 Currently Learning
 
